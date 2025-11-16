@@ -6,21 +6,21 @@ Este é o meu portfólio pessoal, desenvolvido para apresentar quem eu sou como 
 
 ## 🌟 Acesso
 
-O site está disponível online através do [GitHub Pages](https://eduduf.github.io/cafe-brasileiro/).
+O site está disponível online através do [GitHub Pages](https://eduduf.github.io/portifolio-pessoal/).
 
-O site é responsivo, utilizando um design dark mode limpo e moderno para focar a atenção do usuário no conteúdo e nos projetos.
+- O site é responsivo, utilizando um design dark mode limpo e moderno para focar a atenção do usuário no conteúdo e nos projetos.
 
 ## 🛠️ Tecnologias Utilizadas
 
 Este portfólio foi construído utilizando as seguintes tecnologias:
 
-  **HTML5:** Estrutura semântica para o conteúdo.
+ - **HTML5:** Estrutura semântica para o conteúdo.
  
-  **CSS3:** Estilização e layout moderno, incluindo Flexbox.
+ - **CSS3:** Estilização e layout moderno, incluindo Flexbox.
 
-  **Git & GitHub:** Controle de versão e hospedagem.
+ - **Git & GitHub:** Controle de versão e hospedagem.
 
-  **GitHub Pages:** Para a publicação e hospedagem gratuita do site.
+ - **GitHub Pages:** Para a publicação e hospedagem gratuita do site.
 
 ## ⚙️ Como Rodar Localmente
 
